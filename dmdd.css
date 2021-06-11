@@ -8,11 +8,11 @@ img {
   margin-right: auto;
 }
 
-p {font-family: 'Nunito', sans-serif;}
+p {font-family: 'Roboto Mono', monospace;}
 
-h1 {font-family: 'Nunito'}
+h1 {font-family: 'Roboto Mono'}
 
-h2 {font-family: 'Nunito'}
+h2 {font-family: 'Roboto Mono'}
 
 #audio {width: 560px}
 
